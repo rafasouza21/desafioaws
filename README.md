@@ -1,5 +1,7 @@
 # 🐍 Snake Game
+
 tag: q-developer-quest-tdc-2025
+
 Um jogo clássico da cobrinha desenvolvido em Python usando Streamlit.
 
 ## 📋 Descrição
